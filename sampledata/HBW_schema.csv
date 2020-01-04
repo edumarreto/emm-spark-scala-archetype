@@ -1,0 +1,16 @@
+#SCHEMA PERSON
+#FIELD_NAME; FIELD TYPE; NULLABLE
+#StructType(StructField(NOME,StringType,false), StructField(IDADE,IntegerType,false))
+cod_trem_hbw;integer;false
+prefixo;string;false
+data_hora_chegada;date;false
+rh;integer;false
+linha;integer;false
+tag;string;false
+posicao_vagao;integer;false
+numero_eixo;integer;false
+temp_caixa_1;integer;false
+temp_caixa_2;integer;false
+temp_roda_1;integer;false
+temp_roda_2;integer;false
+numero_eixo_relativo;integer;false

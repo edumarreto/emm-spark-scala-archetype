@@ -1,0 +1,26 @@
+#SCHEMA PERSON
+#FIELD_NAME; FIELD TYPE; NULLABLE
+#StructType(StructField(NOME,StringType,false), StructField(IDADE,IntegerType,false))
+TrnID1;integer;true
+Pass_Time1;date;true
+Site_Code1;string;true
+Train_ID;string;true
+Loco_ID;string;true
+Direction1;string;true
+Axles;string;true
+Vehicles;string;true
+Length;string;true
+Speed_in;float;true
+Speed_out;float;true
+TrnID2;string;true
+AxlID;string;true
+BrgID;string;true
+Site_Code2;string;true
+Track_Side;string;true
+Direction2;string;true
+Pass_Time2;date;true
+Severity;string;true
+Tag;string;true
+Axle;string;true
+Side;string;true
+RemovedFromService;string;true

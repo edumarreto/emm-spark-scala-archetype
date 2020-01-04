@@ -1,0 +1,5 @@
+#SCHEMA PERSON
+#FIELD_NAME; FIELD TYPE; NULLABLE
+#StructType(StructField(NOME,StringType,false), StructField(IDADE,IntegerType,false))
+NOME;string;false
+IDADE;integer;false
